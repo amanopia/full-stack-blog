@@ -1,7 +1,16 @@
 const App = () => {
   return (
-    <div className=''>Hello World</div>
-  )
-}
+    <div>
+      {/* NAVBAR */}
 
-export default App
+      {/* BREADCRUMBS */}
+      {/* INTRODUCTION */}
+      {/* FEATURED POSTS */}
+      {/* POST LIST */}
+    </div>
+  );
+};
+
+export default App;
+
+// x-1 : 16px
